@@ -1,5 +1,5 @@
 <?php
-require_once 'assets/dompdf-master/autoload.inc.php';
+// require_once 'assets/dompdf-master/autoload.inc.php';
 date_default_timezone_set("Asia/Jakarta");
 function get($val)
 {

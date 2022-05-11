@@ -15,6 +15,7 @@ include 'conf.php';
     <div class="header">
         <div class="big-logo">Latihan CRUDSRUD</div>
         <?php include 'menu.php'; ?>
+        <a href="logout.php">logout</a>
     </div>
     <div class="content">
         <div class="container">
